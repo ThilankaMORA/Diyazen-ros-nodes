@@ -1,0 +1,8 @@
+prefix=/home/diyazen/Diyazen-ROS-Modules/diyazen-ros-kinetic-ws-dev-thilanka/install
+
+Name: riotu_robot_pose_publisher
+Description: Description of riotu_robot_pose_publisher
+Version: 0.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

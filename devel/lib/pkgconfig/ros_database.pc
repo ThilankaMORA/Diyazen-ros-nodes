@@ -1,0 +1,8 @@
+prefix=/home/diyazen/Diyazen-ROS-Modules/diyazen-ros-kinetic-ws-dev-thilanka/devel
+
+Name: ros_database
+Description: Description of ros_database
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

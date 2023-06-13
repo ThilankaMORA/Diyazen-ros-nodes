@@ -1,0 +1,2 @@
+riotu_robot_pose_publisher:ros_database:vision
+-DCATKIN_DEVEL_PREFIX=/home/diyazen/Diyazen-ROS-Modules/diyazen-ros-kinetic-ws-dev-thilanka/devel -DCMAKE_INSTALL_PREFIX=/home/diyazen/Diyazen-ROS-Modules/diyazen-ros-kinetic-ws-dev-thilanka/install -G Unix Makefiles
